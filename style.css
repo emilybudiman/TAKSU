@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  background-color: black;
+}
+
+h1{
+    padding-left: 10px;
+    display: inline-block;
+    position: fixed;
+    transition: all 0.15s ease;
+}
+
+h1:hover{
+    outline-color: red;
+    color: red;
+}
+
+a, a:hover, a:visited, a:active {
+  color: inherit;
+  text-decoration: none;
+ }
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 15px;
+}
+
+.row img{
+    padding: 10px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 5px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  padding: 10px;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+img{
+    transition: all 0.15s ease;
+}
+
+img:hover{
+    padding: 7px;
+}
