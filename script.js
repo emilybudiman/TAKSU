@@ -1,6 +1,156 @@
 const piece = [ 
 {
-    cover:
+    cover: "imgs/IMG_6208_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6211_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6217_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6226_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6233_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6323_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6328_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6202_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6213_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6216_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6224_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6234_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6325_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6204_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6209_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6215_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6219_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6227_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6235_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6205_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6210_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6223_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6228_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6231_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6327_.png"
+    fullimg:
+    about:
+    materials:
+},
+{
+    cover: "imgs/IMG_6329_.png"
     fullimg:
     about:
     materials:

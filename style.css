@@ -7,18 +7,6 @@ body {
   background-color: #1f1c18;
 }
 
-h1{
-    padding-left: 10px;
-    display: inline-block;
-    position: fixed;
-    transition: all 0.15s ease;
-}
-
-h1:hover{
-    outline-color: red;
-    color: red;
-}
-
 a, a:hover, a:visited, a:active {
   color: inherit;
   text-decoration: none;
@@ -68,4 +56,29 @@ img{
 
 img:hover{
     padding: 7px;
+}
+
+#piecegrid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 10px;
+    column-gap: 10px;
+    width: 35%;
+    padding: 20px;
+}
+
+#piecegrid img{
+    max-height: 19vh;
+    outline-color: #232323;
+    outline-style: solid;
+    outline-width: 1px;
+}
+#piecegrid img:hover{
+    max-height: 19vh;
+    outline-color: #232323;
+    outline-style: dashed;
+    outline-width: 2px;
+    transform: scale(1.01);
+    transition: 0.1s;
 }
